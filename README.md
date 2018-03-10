@@ -1,5 +1,5 @@
 # Table of Contents
-1. Introductio
+1. Introduction
 2. Dependencies
 3. How to Run
 
