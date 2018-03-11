@@ -10,7 +10,6 @@ library("stringr")    # Package for string manipulation
 library('caret')      # Package for CV and Tuning
 
 # Import data
-setwd("/Users/Derek/Kaggle-Titanic-ML")
 train.dat <- read.csv("./input/train.csv", stringsAsFactors = FALSE)
 test.dat <- read.csv("./input/test.csv", stringsAsFactors = FALSE)
 
